@@ -9,7 +9,6 @@ const TodoInput = ({ todo, setTodo, addTodo }) => {
 
   const handleKeyDown = e => {
     if (e.key === 'Enter') {
-      console.log(e.target.value);
       addTodo(e.target.value)
     }
   }
