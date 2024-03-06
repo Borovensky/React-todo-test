@@ -1,8 +1,11 @@
-# Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## To see demo 
+
+https://borovensky.github.io/React-todo-test/
+
+## Available Scripts to run locally
 
 In the project directory, you can run:
 
